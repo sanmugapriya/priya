@@ -1,6 +1,6 @@
 import java.util.*;
 
-class hcf
+class HCF
 {
 	public static void main (String[] args)
 	{
